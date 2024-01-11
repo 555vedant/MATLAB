@@ -1,0 +1,18 @@
+SOLUTION OF QUESTION 4
+i) m = 
+   0   1   0
+
+ii) n = 
+   0   1   1
+
+iii) o = 
+   1   0   0
+
+iv) p = 
+     0    10    56
+
+v) q = 
+       NaN    2.5000    0.8750
+
+vi) r = 
+           1          25     5764801
